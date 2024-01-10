@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 <h1>Pose-Free Generalizable Rendering Transformer</h1>
@@ -164,3 +165,6 @@ If you find our work useful for your research, please consider citing the paper:
   url={https://api.semanticscholar.org/CorpusID:263671855}
 }
 ```
+=======
+
+>>>>>>> origin/main
